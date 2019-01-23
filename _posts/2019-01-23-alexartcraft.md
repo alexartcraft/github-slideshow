@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Very little is needed to make a happy life; it is all within yourself, in your way of thinking." - Marcus Aurelius
 Use the left arrow to go back!
